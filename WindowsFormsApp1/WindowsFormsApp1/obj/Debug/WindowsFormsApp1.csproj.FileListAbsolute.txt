@@ -1,0 +1,12 @@
+D:\csFromZeroToHero\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\csFromZeroToHero\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\csFromZeroToHero\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\csFromZeroToHero\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\csFromZeroToHero\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\csFromZeroToHero\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\csFromZeroToHero\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\csFromZeroToHero\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\csFromZeroToHero\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\csFromZeroToHero\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.calculator.resources
+D:\csFromZeroToHero\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+D:\csFromZeroToHero\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Grading.resources

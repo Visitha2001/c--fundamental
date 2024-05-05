@@ -1,0 +1,7 @@
+D:\csFromZeroToHero\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\csFromZeroToHero\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\csFromZeroToHero\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\csFromZeroToHero\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\csFromZeroToHero\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\csFromZeroToHero\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\csFromZeroToHero\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
